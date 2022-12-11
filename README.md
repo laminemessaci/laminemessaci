@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://external-preview.redd.it/wkdwpI30ciwaCDOqtaKxO-FcitPUGHwxUD2H_WTe9yw.gif?format=mp4&s=039bbb67c5626e6e0097d248f772551f4ae286c6)
+![](https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif)
 
 <a href=#><img src="contributions.svg"></a>
 
