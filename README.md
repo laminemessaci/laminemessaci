@@ -16,7 +16,12 @@
 - 🔭 I am currently working on React, React-native and NodeJs projects ...
 - 🌱 I’m currently learning  NodeJs, Symfony, Remix, React and  Github-actions...
 <hr>
-<hr>
+# 💻Tech Stack
+
+<!-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  -->
  <h2 align="center">📫 How to reach me:</h2>
   - <a href="https://www.linkedin.com/in/lamine-messaci/" target="_blank">
     <img
@@ -31,7 +36,13 @@
   <br/>
  <hr>
  <h3 align="center"> ⚡Statistics : <h2>
+  
+  ## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=laminemessaci&theme=oldie&no-frame=false&no-bg=false&margin-w=4)
+  <hr>
+
  
+
 
 
 
