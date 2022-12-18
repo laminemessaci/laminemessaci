@@ -41,7 +41,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=laminemessaci&theme=oldie&no-frame=false&no-bg=false&margin-w=4)
   <hr>
 
- 
+ <p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
 
 
 
