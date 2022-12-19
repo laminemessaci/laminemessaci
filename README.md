@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- <h1 align="center"><img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" alt="my header"/></h1>
+ <h1 align="center"><kbd><img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" alt="my header"/></kbd></h1>
 
 <a href=#><img src="contributions.svg"></a>
 
