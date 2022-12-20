@@ -55,6 +55,7 @@
  ## By the way here are some of my statistics 🚀
 ![Lamine Messaci's github stats](https://github-readme-stats.vercel.app/api?username=laminemessaci&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=laminemessaci&theme=tokyonight" alt="mystreak"/>
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=laminemessaci&layout=compact&langs_count=8&theme=tokyonight" alt="mylanguages"/>
 ![laminemessaci's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laminemessaci&theme=tokyonight&layout=compact)
   
   ## 🏆GitHub Trophies
