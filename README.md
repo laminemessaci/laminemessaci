@@ -36,6 +36,11 @@
   <br/>
  <hr>
  <h3 align="center"> ⚡Statistics : <h2>
+ 
+ ## By the way here are some of my statistics 🚀
+![Lamine Messaci's github stats](https://github-readme-stats.vercel.app/api?username=laminemessaci&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=laminemessaci&theme=tokyonight" alt="mystreak"/>
+![laminemessaci's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laminemessaci&theme=tokyonight&layout=compact)
   
   ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=laminemessaci&theme=oldie&no-frame=false&no-bg=false&margin-w=4)
